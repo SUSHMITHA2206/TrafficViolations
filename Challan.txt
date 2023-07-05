@@ -1,0 +1,8 @@
+TS9234,Hyd,10-5-2023,Signal crossing,1000
+TS1904,koti,12-3-2023,triple driving,500
+TS5664,shamshabad,5-5-2023,Wrong route,200
+TS9234,sr nagar,25-2-2023,triple driving,100
+TS2934,lb nagar,27-04-2023,parking,300
+TS1234,attapur,7-3-2023,Signal crossing,1000
+TS1234,attapur,6-3-2022,no parking,1000
+TS9234,hyd,30-4-2023,parking,300
